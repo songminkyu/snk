@@ -1,1 +1,1 @@
-<img src="https://github.com/songminkyu/songminkyu/blob/output/generate-snake-game-from-github-contribution-grid"/>
+![snake gif](https://github.com/songminkyu/songminkyu/blob/output/github-contribution-grid-snake.svg)
